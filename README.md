@@ -1,4 +1,4 @@
-##CPU Monitoring System
+# CPU Monitoring System
 
 Consider a monitoring system, which monitors 1000 servers. Each server has 2 CPUs. Each
 
@@ -71,24 +71,24 @@ CPU0 usage on 192.168.1.12:
 >EXIT
 
 
-##Executing
+# Executing
 
--Compiling the source code
+- Compiling the source code
 1. Open cmd
 2. Run complieSource.cmd file
 
--Executing the logging simulator
+- Executing the logging simulator
 1. Run the runLogger.cmd
 2. Provide the desired output file path to the runLogger.cmd script.
 3. Syntax: runLogger.cmd output.txt
 
--Executing the query tool
+- Executing the query tool
 1. Run the runQueryTool.cmd
 2. Provide the desired input log file path to the runQueryTool.cmd script.
 3. Syntax: runQueryTool.cmd output.txt
 
 
-##System Config
+# System Config
 
--Java 8
--Windows 11
+- Java 8
+- Windows 11
